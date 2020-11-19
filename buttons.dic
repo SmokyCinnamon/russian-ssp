@@ -1,0 +1,138 @@
+//for translation of the buttons. there are a lot.
+//why do i do this to myself
+//for the record -- you can put this into ghost's dic files, but that's a bit of a process the average user won't be doing, I assume.
+
+// MAIN MENU -- sub menus below.
+//these ones the user may want to change. commented out for that reason -- i don't know if it'll conflict with other dic files or not.
+/*On_recommendrootbutton.caption
+ {"Recommended sites"}
+ On_kero.recommendbuttoncaption
+ {"Recommended sites"}
+ On_portalrootbutton.caption
+ {"Portal"}*/
+//back to the menu -- in order from top to bottom
+On_updatebutton.caption
+ {"Установить"} //update
+ //section 2
+On_vanishbutton.caption
+ {"Удалить"} //delete
+ //section 3
+On_headlinesenserootbutton.caption
+ {"Новости"} //rss feeds
+ On_headlinesensehistorybutton.caption
+ {"Новости"}
+On_pluginrootbutton.caption
+ {"Модули"} //plugins
+ On_pluginhistorybutton.caption
+ {"Модули"}
+On_biffbutton.caption
+ {"Проверить Почту"} //check mail
+On_shellscalerootbutton.caption
+ {"Размер Укагакы"} //shell size
+On_utilityrootbutton.caption // SEE FUNCTIONS SUB-MENU
+ {"Функции SSP"} //utilities
+On_configurationrootbutton.caption //SEE SETTINGS SUB-MENU
+ {"Настройки"} //settings
+ //section 4
+On_ghostrootbutton.caption
+ {"Сменить Приведение"} //change ghost
+ On_ghosthistorybutton.caption
+ {"Сменить Привидеине"}
+On_callghostrootbutton.caption
+ {"Вызвать Приведение"} //call ghost
+ On_callghosthistorybutton.caption
+ {"Вывать Приведение"}
+On_shellrootbutton.caption
+ {"Внешний Вид"} //change shell
+On_dressuprootbutton.caption
+{"Одежда"} //dress-up
+On_balloonrootbutton.caption
+ {"Поле С Текстом"} //balloons. text field is cursed, for the record
+ On_balloonhistorybutton.caption
+ {"Поле С Текстом"}
+On_historyrootbutton.caption
+ {"История"} //history
+//section 5
+On_inforootbutton.caption //SEE INFORMATION SUB-MENU
+ {"Информация"} //information
+On_hidebutton.caption
+ {"Свернуть"} //minimize
+//section 6
+On_closebutton.caption
+ {"Закрыть"} //close ghost
+On_quitbutton.caption
+ {"Выйти"} //quit
+ 
+//FUNCTIONS SUB-MENU
+//this is the biggest sub-menu, so finding all the buttons for it was a pain. some of them don't work, too, for some reason.
+On_calendarbutton.caption
+ {"Календрь"} //calendar
+On_messengerbutton.caption
+ {"Сообщения"} //ssp messenger
+On_sntpbutton.caption
+ {"Синхронозация Времени NTP"} //NTP time-sync
+On_ghostexplorerbutton.caption
+ {"Персонажи"} //explorer
+On_updateplatformbutton.caption
+ {"Проверить обновление ядра"} //update ssp
+//section 2
+On_dictationbutton.caption //doesn't seem to work
+ {"Признание речи"} //speech recognition
+On_texttospeechbutton.caption
+ {"Текст к речь"} //text-to-speech
+//section 3
+On_adressbarbutton.caption //doesn't seem to work...
+ {"Строка Адреса"} //address bar
+//section 4
+On_scriptlogbutton.caption
+ {"Журнал Отладки"} //script log
+On_duibutton.caption
+ {"Средства для разработчиков"} //developer interface
+//section 5
+On_purgeghostcachebutton.caption
+ {"Отчистить кэш"} //clear cache
+On_updatefmobutton.caption
+ {"Обновление F&MO"} //FMO update
+//section 6
+On_switchreloadbutton.caption
+ {"Перезагрузить Персонажа"} //reload ghost
+On_leavepassivebutton.caption
+ {"Сбросить пассивный режим"} //reset passive mode
+On_switchreloadtempghostbutton.caption
+ {"Сохравить времменного персонажа  &Ctrl+K"} //reload (maybe save?) temporary ghost
+//section 7
+On_resetballoonpositionbutton.caption
+ {"Сбросить положение текста"} //reset balloon position
+On_closeballoonbutton.caption
+ {"Сбросить текстовые заметки"} //close all balloons
+On_switchmovetodefaultpositionbutton.caption
+ {"Сбросить положение персонажа"} //reset shell
+ 
+ 
+//SETTINGS SUB-MENU
+//section 2 -- couldn't find the buttons for the first
+On_switchproxybutton.caption
+ {"Включить прокси-сервера"} //enable proxy
+On_charsetbutton.caption
+ {"Выбирать charset по умолчанию"} //choose default charset
+//section 3
+On_switchtalkghostbutton.caption
+ {"Создать AiTalk от Шиорий"} //raise aitalk from shiori
+On_switchcompatiblemodebutton.caption
+ {"Поддержаные старые спесификации"} //switch compatible mode
+ 
+//INFORMATION SUB-MENU
+On_firststaffbutton.caption
+ {"О SSP"} //about ssp
+ On_readmebutton.caption
+ {"Читай мне"} //readme
+On_helpbutton.caption
+ {"Помочь"} //help
+//section 2
+On_aistatebutton.caption
+ {"Гриф АИ"} //ai graph
+On_rateofusebutton.caption
+ {"Статистика использование приведении"} //ghost usage statistics
+On_systeminfobutton.caption
+ {"О своей системе"} //saves as .txt file
+ //(output system info)
