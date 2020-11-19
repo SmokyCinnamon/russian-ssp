@@ -1,6 +1,6 @@
-„` „~„u „‚„…„ƒ„ƒ„{„y„z, „‘ „~„u „€„‰„u„~„Ž „x„~„p„ „„€-„‚„…„ƒ„ƒ„{„y„z, „y „„„„€ „~„u „€„†„y„ˆ„y„p„|„Ž„~„„z. „P„u„‚„u„r„€„t„y„| „ƒ „„€„}„€„‹„Ž„ „q„„r„Š„y„z „„u„‚„u„r„€„t („{„€„„„€„‚„„z, „{ „ƒ„€„w„p„|„u„~„y„ „q„€„|„Ž„Š„u „~„u „}„€„w„~„€ „~„p„z„„„y) „€„„ „@„{„y„„„€
+Ð¯ Ð½Ðµ Ñ€ÑƒÑÑÐºÐ¸Ð¹, Ñ Ð½Ðµ Ð¾Ñ‡ÐµÐ½ÑŒ Ð·Ð½Ð°ÑŽ Ð¿Ð¾-Ñ€ÑƒÑÑÐºÐ¸Ð¹, Ð¸ ÑÑ‚Ð¾ Ð½Ðµ Ð¾Ñ„Ð¸Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¹. ÐŸÐµÑ€ÐµÐ²Ð¾Ð´Ð¸Ð» Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ Ð±Ñ‹Ð²ÑˆÐ¸Ð¹ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´ (ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹, Ðº ÑÐ¾Ð¶Ð°Ð»ÐµÐ½Ð¸ÑŽ Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½Ðµ Ð¼Ð¾Ð¶Ð½Ð¾ Ð½Ð°Ð¹Ñ‚Ð¸) Ð¾Ñ‚ ÐÐºÐ¸Ñ‚Ð¾
 
-„H„p„„„€, „u„ƒ„|„y „r„ „‡„€„„„y„„„u „‚„…„ƒ„ƒ„{„y„z „„u„‚„u„r„€„t SSP -- „„€„ƒ„„„p„r„y„„„Ž „†„p„z„| buttons.dic „r „r„p„Š„u„z „†„p„z„|„y „…„{„p„s„p„{„y ( „r /ghost/master/). „E„ƒ„|„y „x„~„p„u„„„u „‘„„€„~„ƒ„{„y„z „y„|„y „p„~„|„y„z„ƒ„u„y„z, „r„ „}„€„w„u„„„u „„u„‚„u„r„t„€„y„„„Ž „ƒ„p„}„y. 
+Ð—Ð°Ñ‚Ð¾, ÐµÑÐ»Ð¸ Ð²Ñ‹ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ñ€ÑƒÑÑÐºÐ¸Ð¹ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´ SSP -- Ð¿Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» buttons.dic Ð² Ð²Ð°ÑˆÐµÐ¹ Ñ„Ð°Ð¹Ð»Ð¸ ÑƒÐºÐ°Ð³Ð°ÐºÐ¸ ( Ð² /ghost/master/). Ð•ÑÐ»Ð¸ Ð·Ð½Ð°ÐµÑ‚Ðµ ÑÐ¿Ð¾Ð½ÑÐºÐ¸Ð¹ Ð¸Ð»Ð¸ Ð°Ð½Ð³Ð»Ð¸Ð¹ÑÐºÐ¸Ð¹, Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿ÐµÑ€ÐµÐ²Ð´Ð¾Ð¸Ñ‚ÑŒ ÑÐ°Ð¼Ð¸. 
 
-„P„p„„{„p "russian" „y„t„v„„ „r /data/language/ „N„O „^„S„O  „E„Z„E „N„E „P„O„L„N„_. „B„p„Š „…„{„p„s„{„p „~„…„w„u„~ buttons.dic „‰„„„€„q„ „… ssp „u„ƒ„„„Ž „„€-„‚„…„ƒ„ƒ„{„y„z.
-(„I „„„p„{„w„u, „r„ „}„€„w„u„„„u „~„…„w„u„~ „„u„‚„u„}„u„~„y„„„Ž buttons.dic „r buttons.txt „y„|„y „‰„„„€-„„„€ „t„‚„…„s„€„u. „S„€„|„Ž„{„€ „u„ƒ„|„y „r„p„Š „…„{„p„s„p„{„p „~„u „„y„ƒ„p„|/„p „r AYA/YAYA.)
+ÐŸÐ°Ð¿ÐºÐ° "russian" Ð¸Ð´Ñ‘Ñ‚ Ð² /data/language/ ÐÐž Ð­Ð¢Ðž  Ð•Ð©Ð• ÐÐ• ÐŸÐžÐ›ÐÐ®. Ð’Ð°Ñˆ ÑƒÐºÐ°Ð³ÐºÐ° Ð½ÑƒÐ¶ÐµÐ½ buttons.dic Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ñƒ ssp ÐµÑÑ‚ÑŒ Ð¿Ð¾-Ñ€ÑƒÑÑÐºÐ¸Ð¹.
+(Ð˜ Ñ‚Ð°ÐºÐ¶Ðµ, Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð½ÑƒÐ¶ÐµÐ½ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð¸Ñ‚ÑŒ buttons.dic Ð² buttons.txt Ð¸Ð»Ð¸ Ñ‡Ñ‚Ð¾-Ñ‚Ð¾ Ð´Ñ€ÑƒÐ³Ð¾Ðµ. Ð¢Ð¾Ð»ÑŒÐºÐ¾ ÐµÑÐ»Ð¸ Ð²Ð°Ñˆ ÑƒÐºÐ°Ð³Ð°ÐºÐ° Ð½Ðµ Ð¿Ð¸ÑÐ°Ð»/Ð° Ð² AYA/YAYA.)
