@@ -35,7 +35,8 @@ craftman,SSP BUGTRAQ
 craftmanurl,http://ssp.shillest.net/
 
 //Network Update URL
-homeurl,https://cdn.jsdelivr.net/gh/SmokyCinnamon/russian-ssp@master/russian/
+homeurl,https://raw.githubusercontent.com/SmokyCinnamon/russian-ssp/master/
+
 
 //Popup menu font name and height
 //menu.font.name,
