@@ -31,8 +31,11 @@ messagename,message.txt
 holidayname,holidays.txt
 
 //Creator. Why using strange English "craftman"? Because for unification of other "descript.txt" format.
-craftman,Smoky
-craftmanurl,https://github.io/smokycinnamon/indifferentsorrel/index.thml/
+craftman,SSP BUGTRAQ
+craftmanurl,http://ssp.shillest.net/
+
+//Network Update URL
+homeurl,https://cdn.jsdelivr.net/gh/SmokyCinnamon/russian-ssp@master/russian/
 
 //Popup menu font name and height
 //menu.font.name,
