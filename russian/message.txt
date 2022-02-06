@@ -63,6 +63,9 @@ info.archivepassword.first,Этот архив/NAR защищен пароль.\
 info.archivepassword.retry,Неправильный пароль.\nПожалуйста, введите правильный пароль.
 info.developer.testupdate,Пожалуйста, введите номер обновленные файли.
 
+info.developer.timemachine,"API для изменение часы (Timemachine)" включен.\nПожалуйста использовать средства для работчиков, чтобы вернуться к нормальный режим.
+info.url.ghostboot,Вы хотите запускать привидение, которое определённое в URL вы открываете?
+
 //Resource
 resource.common.yesno,Да,Нет
 resource.common.okcancel,OK,Закрыть
