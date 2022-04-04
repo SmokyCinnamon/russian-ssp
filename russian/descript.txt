@@ -35,7 +35,7 @@ craftman,SmokyCinnamon
 craftmanurl,https://smokycinnamon.github.io/indifferentsorrel/index.html
 
 //Network Update URL
-homeurl,https://raw.githubusercontent.com/SmokyCinnamon/russian-ssp/russian/
+homeurl,https://raw.githubusercontent.com/SmokyCinnamon/russian-ssp/master/russian/
 
 
 //Popup menu font name and height
