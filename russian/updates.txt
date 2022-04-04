@@ -1,9 +1,9 @@
 charset,windows-1251
-file,descript.txt196616e411d8731be9903d408f8b689dsize=1371date=2022-01-08T15:04:41
+file,descript.txt3f99b2fb324c8fa6f0de4663ce32fb7asize=1410date=2022-04-03T20:55:53
 file,holidays.txt0a54f31f921f752cdc33ab4474929ec1size=464date=2021-01-07T15:22:39
 file,install.txt582f2faf3b8bc8ea010c4b0c84f53d87size=61date=2022-01-08T14:08:57
 file,message.txt8fcfb7bd6296ac7c1d4ce6cf653e3842size=15021date=2022-04-03T20:06:11
-file,resource.dll68e8630aee4139f5c65879bd0fe97ec2size=69632date=2022-01-08T12:53:27
+file,resource.dllcb73d0761714663447acf9d1a459e5b4size=69632date=2022-01-08T12:53:27
 file,ssp-pictures/nowloading.pnga018eddfff41fdf6f2338d4e514627e9size=4544date=2021-01-07T15:22:39
 file,ssp-pictures/pseudoai.pngebf33dbd938bcb53737425b7150982cesize=5512date=2021-01-07T15:22:39
 file,ssp-pictures/realize.png54eb56fe73be4c99dfff1883c74c498dsize=6819date=2021-01-07T15:22:39
