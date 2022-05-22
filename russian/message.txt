@@ -78,12 +78,17 @@ resource.common.other,Другой
 resource.common.menu,Меню
 resource.common.sameas,Этот выбрано одно и то же как следующий.
 resource.common.dontsayagain,Не снова это показать
+//this message may use when something new object can create. Currently this message is used by install folder selection dialog.
+resource.common.createnew,Создать новая
+//(ый/ой/ые)
 
 resource.listdialoglabel,Имя,Создатель,Путь,Группа,\0Имя,\1Имя,Загрузить,Установить,ВерхРезультат
 resource.listdialogfind,Пожалуйста напишите текст вы хотите найти.
 resource.scriptloglabel,Привидение,Типа,Текст
 
 resource.biff.allaccount,&Все Аккаунты
+//default e-mail check result (sakurascript)
+script.biff.result,Пришла почту.\n%1 почта(ы), %2 байт(ы).
 
 resource.browser.select,Выбирать Веб-браузер
 resource.mailer.select,Выбирать Почта

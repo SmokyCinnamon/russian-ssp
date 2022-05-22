@@ -2,7 +2,7 @@ charset,windows-1251
 file,descript.txt163fbc8478b6a5ecf89a78255613e4ddsize=1417date=2022-04-03T21:08:55
 file,holidays.txt0a54f31f921f752cdc33ab4474929ec1size=464date=2021-01-07T15:22:39
 file,install.txt582f2faf3b8bc8ea010c4b0c84f53d87size=61date=2022-01-08T14:08:57
-file,message.txt8fcfb7bd6296ac7c1d4ce6cf653e3842size=15021date=2022-04-03T20:06:11
+file,message.txt7e4fffb79eea4a7a25b55c1289b75c24size=15346date=2022-05-22T13:24:32
 file,resource.dllcb73d0761714663447acf9d1a459e5b4size=69632date=2022-01-08T12:53:27
 file,ssp-pictures/nowloading.pnga018eddfff41fdf6f2338d4e514627e9size=4544date=2021-01-07T15:22:39
 file,ssp-pictures/pseudoai.pngebf33dbd938bcb53737425b7150982cesize=5512date=2021-01-07T15:22:39
